@@ -1,0 +1,75 @@
+.grid-item { border:0px solid black; }
+.js-masonry {margin: 0px; padding: 0px;}
+.grid-item--width2 { background: red;}
+
+##############################################################################
+
+.top-nav {
+	margin-top: 1em;
+}
+
+.carousel-caption {
+
+}
+
+.desc {
+padding: 5px;	
+
+}
+
+.desc p{
+text-align: justify;	
+ line-height: 150%;	
+}
+
+
+.carousel-caption h2{
+	background-color: rgba(255,0,0,0.5);
+  	display:inline-block;
+	padding: 2px;
+}
+
+.carousel-caption p{
+	background-color: rgba(192,192,192,0.5);
+	font-size: 18px;
+  	display:inline-block;
+  	width: 100%;
+	padding: 2px;
+}
+
+.tales {
+	
+	width: 100%;
+}
+
+.carousel-inner{
+  width:100%;
+  max-height: 30em !important;
+}
+.item{
+  width:100%;
+  max-height: 30em !important;
+}
+
+body {
+	background-image: url(../images/body.jpg);
+	background-size: cover;
+}
+
+.jumbotron {
+
+	//background-image: url(../images/jumbobg.jpg);
+	//background-size: cover;
+	color: white;
+	text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.container {
+	background-color: white;
+	
+}
+
+.post {
+	
+}
+
